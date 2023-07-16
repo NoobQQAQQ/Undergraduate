@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "memory.h": "c",
+        "instr.h": "c",
+        "nemu.h": "c",
+        "cpu.h": "c",
+        "lgdt.h": "c",
+        "lidt.h": "c",
+        "int.h": "c",
+        "intr.h": "c",
+        "x86.h": "c",
+        "common.h": "c",
+        "iret.h": "c"
+    }
+}

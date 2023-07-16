@@ -1,0 +1,144 @@
+-- Copyright (C) 2017  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=416;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[000..001]  :   0293;
+	[002..003]  :   0310;
+	[004..007]  :   0370;
+	[008..009]  :   0000;
+	[00A..00B]  :   0293;
+	[00C..00D]  :   0310;
+	[00E..011]  :   024B;
+	[012..013]  :   0000;
+	[014..015]  :   0293;
+	[016..017]  :   0310;
+	[018..019]  :   0370;
+	[01A..01B]  :   0417;
+	[01C..01D]  :   0370;
+	[01E..01F]  :   0310;
+	[020..021]  :   020B;
+	[022..023]  :   0293;
+	[024..029]  :   024B;
+	[02A..02B]  :   0293;
+	[02C..02F]  :   0310;
+	[030..031]  :   024B;
+	[032..033]  :   0293;
+	[034..037]  :   018B;
+	[038..039]  :   01B8;
+	[03A..03B]  :   020B;
+	[03C..03F]  :   024B;
+	[040..041]  :   0293;
+	[042..043]  :   024B;
+	[044..045]  :   01EE;
+	[046..047]  :   020B;
+	[048..04B]  :   0188;
+	[04C..04F]  :   0000;
+	[050..051]  :   0293;
+	[052..053]  :   0310;
+	[054..057]  :   0370;
+	[058..059]  :   0000;
+	[05A..05B]  :   0293;
+	[05C..05D]  :   0310;
+	[05E..061]  :   024B;
+	[062..063]  :   0000;
+	[064..065]  :   0293;
+	[066..067]  :   0310;
+	[068..069]  :   0370;
+	[06A..06B]  :   0417;
+	[06C..06D]  :   0370;
+	[06E..06F]  :   0310;
+	[070..071]  :   020B;
+	[072..073]  :   0293;
+	[074..079]  :   024B;
+	[07A..07B]  :   0293;
+	[07C..07F]  :   0310;
+	[080..081]  :   024B;
+	[082..083]  :   0293;
+	[084..087]  :   018B;
+	[088..089]  :   01B8;
+	[08A..08B]  :   020B;
+	[08C..08F]  :   024B;
+	[090..091]  :   0293;
+	[092..093]  :   024B;
+	[094..095]  :   01EE;
+	[096..097]  :   020B;
+	[098..09B]  :   0188;
+	[09C..09F]  :   0000;
+	[0A0..0A3]  :   0417;
+	[0A4..0A5]  :   0370;
+	[0A6..0A9]  :   0417;
+	[0AA..0AB]  :   0370;
+	[0AC..0AD]  :   0417;
+	[0AE..0AF]  :   0370;
+	[0B0..0B5]  :   0310;
+	[0B6..0B7]  :   0293;
+	[0B8..0B9]  :   0370;
+	[0BA..0BB]  :   0310;
+	[0BC..0BD]  :   020B;
+	[0BE..0BF]  :   024B;
+	[0C0..0C7]  :   0293;
+	[0C8..0C9]  :   024B;
+	[0CA..0CD]  :   0293;
+	[0CE..0D1]  :   0417;
+	[0D2..0D3]  :   03DC;
+	[0D4..0D7]  :   0370;
+	[0D8..0DB]  :   0293;
+	[0DC..0DD]  :   024B;
+	[0DE..0DF]  :   0293;
+	[0E0..0E1]  :   0417;
+	[0E2..0E3]  :   03DC;
+	[0E4..0E5]  :   0370;
+	[0E6..0E7]  :   0293;
+	[0E8..0EB]  :   0310;
+	[0EC..0EF]  :   0000;
+	[0F0..0F1]  :   0293;
+	[0F2..0F3]  :   0310;
+	[0F4..0F7]  :   0370;
+	[0F8..0F9]  :   0000;
+	[0FA..0FB]  :   0293;
+	[0FC..0FD]  :   0310;
+	[0FE..101]  :   024B;
+	[102..103]  :   0000;
+	[104..105]  :   0293;
+	[106..107]  :   0310;
+	[108..109]  :   0370;
+	[10A..10B]  :   0417;
+	[10C..10D]  :   0370;
+	[10E..10F]  :   0310;
+	[110..111]  :   020B;
+	[112..113]  :   0293;
+	[114..119]  :   024B;
+	[11A..11B]  :   0293;
+	[11C..11F]  :   0310;
+	[120..121]  :   024B;
+	[122..123]  :   0293;
+	[124..127]  :   018B;
+	[128..129]  :   01B8;
+	[12A..12B]  :   020B;
+	[12C..12F]  :   024B;
+	[130..131]  :   0293;
+	[132..133]  :   024B;
+	[134..135]  :   01EE;
+	[136..137]  :   020B;
+	[138..13B]  :   0188;
+	[13C..19F]  :   0000;
+END;

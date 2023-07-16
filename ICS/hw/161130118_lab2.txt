@@ -1,0 +1,9 @@
+111, 	119, 	19, 	77
+Failing to free allocated blocks is a common error.
+234, 	233, 	230, 	225, 	218, 	209
+35 250
+8 184 NQdQq
+3555555
+5 1 6 3 4 2
+35
+

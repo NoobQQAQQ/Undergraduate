@@ -1,0 +1,92 @@
+-- Copyright (C) 2017  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=416;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[000..003]  :   0293;
+	[004..005]  :   0310;
+	[006..007]  :   0370;
+	[008..00B]  :   0417;
+	[00C..00D]  :   0497;
+	[00E..00F]  :   0370;
+	[010..011]  :   0417;
+	[012..013]  :   0310;
+	[014..017]  :   0620;
+	[018..019]  :   0417;
+	[01A..01B]  :   06E0;
+	[01C..01D]  :   0620;
+	[01E..01F]  :   0527;
+	[020..021]  :   0620;
+	[022..02B]  :   0497;
+	[02C..02D]  :   0527;
+	[02E..02F]  :   03DC;
+	[030..031]  :   0370;
+	[032..035]  :   0310;
+	[036..037]  :   0370;
+	[038..039]  :   0417;
+	[03A..03B]  :   0497;
+	[03C..03D]  :   0293;
+	[03E..03F]  :   0417;
+	[040..041]  :   0370;
+	[042..043]  :   0310;
+	[044..045]  :   0370;
+	[046..047]  :   0417;
+	[048..04B]  :   0310;
+	[04C..04F]  :   0527;
+	[050..051]  :   0620;
+	[052..053]  :   03DC;
+	[054..055]  :   0497;
+	[056..057]  :   0370;
+	[058..059]  :   0417;
+	[05A..05D]  :   0310;
+	[05E..061]  :   0293;
+	[062..063]  :   0310;
+	[064..065]  :   0293;
+	[066..069]  :   0310;
+	[06A..06B]  :   0370;
+	[06C..06D]  :   03DC;
+	[06E..06F]  :   0497;
+	[070..073]  :   0370;
+	[074..075]  :   0310;
+	[076..077]  :   0370;
+	[078..079]  :   0417;
+	[07A..07B]  :   0497;
+	[07C..07D]  :   0620;
+	[07E..07F]  :   0527;
+	[080..081]  :   0497;
+	[082..083]  :   0527;
+	[084..085]  :   0497;
+	[086..087]  :   0417;
+	[088..089]  :   06E0;
+	[08A..08B]  :   0620;
+	[08C..08D]  :   0293;
+	[08E..08F]  :   0417;
+	[090..093]  :   0370;
+	[094..095]  :   0417;
+	[096..097]  :   0370;
+	[098..099]  :   0310;
+	[09A..09B]  :   0293;
+	[09C..09D]  :   0310;
+	[09E..09F]  :   0370;
+	[0A0..0A1]  :   0417;
+	[0A2..0A5]  :   0310;
+	[0A6..19F]  :   0000;
+END;

@@ -1,0 +1,4 @@
+任务1-4Spark版本的jar包
+提交到集群，输入以下指令运行
+spark-submit --master yarn /home/2020st01/sparkProject.jar /MP_Data/task1/JN1_LOG/2015-09-08.log /user/2020st01/SparkOutput1 /user/2020st01/SparkOutput2 /user/2020st01/SparkOutput3 /user/2020st01/SparkOutput4
+

@@ -1,0 +1,193 @@
+-- Copyright (C) 2017  Intel Corporation. All rights reserved.
+-- Your use of Intel Corporation's design tools, logic functions 
+-- and other software and tools, and its AMPP partner logic 
+-- functions, and any output files from any of the foregoing 
+-- (including device programming or simulation files), and any 
+-- associated documentation or information are expressly subject 
+-- to the terms and conditions of the Intel Program License 
+-- Subscription Agreement, the Intel Quartus Prime License Agreement,
+-- the Intel FPGA IP License Agreement, or other applicable license
+-- agreement, including, without limitation, that your use is for
+-- the sole purpose of programming logic devices manufactured by
+-- Intel and sold by Intel or its authorized distributors.  Please
+-- refer to the applicable agreement for further details.
+
+-- Quartus Prime generated Memory Initialization File (.mif)
+
+WIDTH=16;
+DEPTH=384;
+
+ADDRESS_RADIX=HEX;
+DATA_RADIX=HEX;
+
+CONTENT BEGIN
+	[000..001]  :   0000;
+	002  :   0293;
+	003  :   0000;
+	004  :   0293;
+	005  :   0000;
+	006  :   0293;
+	007  :   0000;
+	[008..00B]  :   0293;
+	[00C..00D]  :   024B;
+	[00E..012]  :   020B;
+	013  :   0000;
+	014  :   020B;
+	015  :   0000;
+	[016..01B]  :   020B;
+	[01C..01F]  :   0000;
+	020  :   024B;
+	021  :   0000;
+	022  :   024B;
+	023  :   0000;
+	024  :   024B;
+	025  :   0000;
+	026  :   024B;
+	027  :   0000;
+	[028..02B]  :   024B;
+	02C  :   020B;
+	02D  :   0000;
+	[02E..033]  :   020B;
+	034  :   0293;
+	035  :   0000;
+	[036..03B]  :   0293;
+	[03C..041]  :   0000;
+	042  :   0293;
+	043  :   0000;
+	044  :   0293;
+	045  :   0000;
+	046  :   0293;
+	047  :   0000;
+	[048..04B]  :   0293;
+	[04C..04D]  :   020B;
+	[04E..04F]  :   01B8;
+	[050..052]  :   020B;
+	053  :   0000;
+	054  :   020B;
+	055  :   0000;
+	[056..05B]  :   020B;
+	[05C..05F]  :   0000;
+	060  :   024B;
+	061  :   0000;
+	062  :   024B;
+	063  :   0000;
+	064  :   024B;
+	065  :   0000;
+	066  :   024B;
+	067  :   0000;
+	[068..069]  :   024B;
+	[06A..06B]  :   020B;
+	[06C..06D]  :   01B8;
+	[06E..072]  :   020B;
+	073  :   0000;
+	[074..076]  :   020B;
+	077  :   0000;
+	[078..07B]  :   020B;
+	[07C..07F]  :   0000;
+	[080..083]  :   0370;
+	[084..085]  :   0310;
+	[086..089]  :   020B;
+	[08A..08D]  :   0000;
+	[08E..08F]  :   020B;
+	[090..093]  :   0370;
+	[094..095]  :   0310;
+	[096..099]  :   020B;
+	[09A..0A1]  :   0000;
+	0A2  :   0310;
+	0A3  :   0000;
+	0A4  :   0310;
+	0A5  :   0000;
+	0A6  :   0310;
+	0A7  :   0000;
+	[0A8..0A9]  :   0310;
+	[0AA..0AB]  :   02BA;
+	[0AC..0AD]  :   0293;
+	[0AE..0AF]  :   02BA;
+	[0B0..0B3]  :   0370;
+	0B4  :   0310;
+	0B5  :   0000;
+	0B6  :   0310;
+	[0B7..0BD]  :   0000;
+	[0BE..0BF]  :   020B;
+	[0C0..0C3]  :   0370;
+	[0C4..0C5]  :   0310;
+	[0C6..0C9]  :   020B;
+	[0CA..0CD]  :   0000;
+	[0CE..0CF]  :   020B;
+	0D0  :   0370;
+	0D1  :   0000;
+	0D2  :   0370;
+	0D3  :   0000;
+	[0D4..0D5]  :   0310;
+	[0D6..0D9]  :   020B;
+	[0DA..0E1]  :   0000;
+	0E2  :   024B;
+	0E3  :   0000;
+	0E4  :   024B;
+	0E5  :   0000;
+	0E6  :   024B;
+	0E7  :   0000;
+	[0E8..0EB]  :   024B;
+	[0EC..0ED]  :   020B;
+	0EE  :   01B8;
+	[0EF..0F2]  :   020B;
+	0F3  :   0000;
+	0F4  :   020B;
+	0F5  :   0000;
+	[0F6..0FB]  :   020B;
+	[0FC..0FF]  :   0000;
+	[100..103]  :   0370;
+	[104..105]  :   0310;
+	[106..109]  :   020B;
+	[10A..10D]  :   0000;
+	[10E..10F]  :   020B;
+	110  :   0370;
+	111  :   0000;
+	112  :   0370;
+	113  :   0000;
+	[114..115]  :   0310;
+	[116..119]  :   020B;
+	[11A..121]  :   0000;
+	122  :   0310;
+	123  :   0000;
+	[124..125]  :   0310;
+	[126..127]  :   0293;
+	[128..129]  :   0310;
+	12A  :   0293;
+	12B  :   0000;
+	[12C..12D]  :   0293;
+	[12E..12F]  :   02BA;
+	[130..131]  :   0370;
+	132  :   0310;
+	133  :   0000;
+	[134..135]  :   0310;
+	[136..13B]  :   0293;
+	[13C..13D]  :   0000;
+	[13E..13F]  :   020B;
+	[140..143]  :   0370;
+	[144..145]  :   0310;
+	[146..149]  :   020B;
+	[14A..14B]  :   0000;
+	14C  :   020B;
+	14D  :   0000;
+	[14E..14F]  :   020B;
+	[150..153]  :   0370;
+	[154..155]  :   0310;
+	[156..15B]  :   020B;
+	[15C..161]  :   0000;
+	162  :   024B;
+	163  :   0000;
+	164  :   024B;
+	165  :   0000;
+	166  :   024B;
+	167  :   0000;
+	[168..16B]  :   024B;
+	[16C..16D]  :   020B;
+	16E  :   01B8;
+	[16F..172]  :   020B;
+	173  :   0000;
+	174  :   020B;
+	175  :   0000;
+	[176..17B]  :   020B;
+	[17C..17F]  :   0000;
+END;

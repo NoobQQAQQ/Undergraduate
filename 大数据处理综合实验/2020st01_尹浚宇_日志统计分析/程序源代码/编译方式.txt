@@ -1,0 +1,7 @@
+所有代码都是在Ubuntu的IDEA中编写的
+此文件夹下的三个文件夹内的文件分别取自三个IDEA工程(新建空项目)中的src文件夹内
+
+编译jar包的方式是在File->Project Setting->Artifacts中->+->JAR->From modules with dependencies；指定Main Class
+之后Build->Build Artifact->Build / Rebuild就可以生成可执行jar包
+
+在本地伪集群测试时，我们向src文件夹中添加了core-site.xml hdfs-site.xml等文件，都是和伪分布运行有关的文件，这些文件未进行提交

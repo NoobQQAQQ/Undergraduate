@@ -1,0 +1,1 @@
+hadoop jar /home/2020st01/lab4.jar /data/exercise_4 /user/2020st01/lab4Output

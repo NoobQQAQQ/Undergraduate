@@ -1,0 +1,3 @@
+任务5的jar包
+提交到集群，输入以下指令即可运行。打包时已经指定了主类，运行时不需要在指定
+hadoop jar /home/2020st01/Final_Task5.jar /MP_Data/task1/JN1_LOG /user/2020st01/FinalOutput5
